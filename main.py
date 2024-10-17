@@ -1,4 +1,4 @@
-import os  # os functions
+import os
 import check_camera
 import capture_image
 import train_image
